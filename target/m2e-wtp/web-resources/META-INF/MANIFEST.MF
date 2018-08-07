@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: test-sse
+Implementation-Version: 2.0.2.RELEASE
+Built-By: federico
+Implementation-Vendor-Id: com.javastaff
+Build-Jdk: 1.8.0_102
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/test-sse
+Created-By: Maven Integration for Eclipse
+

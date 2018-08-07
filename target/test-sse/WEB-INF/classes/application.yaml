@@ -1,0 +1,7 @@
+logging:
+ file: /home/LogFiles/sisplog.log
+ pattern:
+  console: "%d %-5level [%thread] %logger : %msg%n"
+  file: "%d %-5level [%thread] %logger : %msg%n"
+ level:
+  it.corteconti: DEBUG
